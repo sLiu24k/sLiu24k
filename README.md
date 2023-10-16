@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shuai Liu, a thesis-based master at University of Alberta.
+- 👋 Hi, I’m Shuai Liu, a Ph.D. student at University of Alberta.
 - 👀 I’m interested in the theoretical perspective of Artificial Intelligence, especially reinforcement learning theory and bandit algorithms.
-- 🌱 I’m currently working with Prof. <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a>
+- 🌱 I’m currently working with Prof. <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a> and Prof. <a href="https://xiaoqitan.org/">Xiaoqi Tan</a>
 - 📫 shuai14 [AT] ualberta [DOT] ca
 - See my <a href="https://sLiu24k.github.io">personal page</a> for more information!
 
